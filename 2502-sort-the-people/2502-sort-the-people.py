@@ -8,7 +8,7 @@ class Solution:
         l =[]
         for i in heights:
             l.append(height[i])
-        print(heights)
+        
         return l
 
         
