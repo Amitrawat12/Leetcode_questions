@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Math
@@ -50,16 +52,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
