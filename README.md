@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -88,4 +90,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
