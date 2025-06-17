@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
