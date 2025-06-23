@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
