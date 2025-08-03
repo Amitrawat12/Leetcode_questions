@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0838-design-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
