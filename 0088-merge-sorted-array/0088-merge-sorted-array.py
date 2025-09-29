@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        p1 = n-1
-        p2 = m-1
+        p1 = m-1
+        p2 = n-1
         for i in range(m+n-1,-1,-1):
             if p2<0: 
                 break
