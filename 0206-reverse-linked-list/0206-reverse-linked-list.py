@@ -12,4 +12,6 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = temp
+        head = prev
         return prev
+        
