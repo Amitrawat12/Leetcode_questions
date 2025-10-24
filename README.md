@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 ## Design
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
