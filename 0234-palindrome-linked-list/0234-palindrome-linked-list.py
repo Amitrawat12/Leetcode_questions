@@ -6,25 +6,26 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         #finding middle
-        slow = fast = head
+        slow=fast=head
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
         
-        #reverse second
+        #reverse the next half
         prev = None
         while slow:
-            temp = slow.next
+            temp= slow.next
             slow.next=prev
             prev = slow
             slow = temp
-        
-        #checking first and second half
-        firstnode = head
-        secondnode = prev
-        while secondnode:
-            if firstnode.val != secondnode.val:
+      
+        #match firs and second halfs
+        node1 = head
+        node2 = prev
+
+        while node2:
+            if node1.val != node2.val:
                 return False
-            firstnode = firstnode.next
-            secondnode = secondnode.next
+            node1=node1.next
+            node2=node2.next
         return True
