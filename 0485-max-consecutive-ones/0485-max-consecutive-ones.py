@@ -7,7 +7,6 @@ class Solution:
                 count+=1
                 if max < count:
                     max = count
-
             else:
                 count =0
         return max
