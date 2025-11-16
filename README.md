@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Amitrawat12/Leetcode_questions/tree/master/3194-find-words-containing-character) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
