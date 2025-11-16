@@ -3,7 +3,6 @@ class Solution:
         i = 0
         j = n
         c = []
-        d =[]
         while i< n:
             c.append(nums[i])
             i+=1
