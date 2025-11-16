@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1580-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
