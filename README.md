@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0782-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
