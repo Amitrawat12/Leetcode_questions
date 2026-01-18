@@ -4,14 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        res= []
+        d = {}
+        n = sorted(nums)
+        for i in range(len(n)):
+            if n[i] not in d : 
+                d[n[i]] = i 
+        res = []
         for i in nums:
-            count = 0
-            for j in nums:
-                if i > j:
-                    count+=1
-            res.append(count)
-        return res
+            res.append(d[i])
+        return res 
+
+            
 
 
         
