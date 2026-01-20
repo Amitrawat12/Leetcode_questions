@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1470-shuffle-the-array) |
 | [1580-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1929-concatenation-of-array) |
