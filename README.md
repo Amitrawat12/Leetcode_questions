@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1580-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1929-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Amitrawat12/Leetcode_questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
