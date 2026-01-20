@@ -4,6 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        ans = nums
-        nums.extend(ans)
+        i = 0
+        n = len(nums)
+        while i< n:
+            nums.append(nums[i])
+            i+=1
         return nums
