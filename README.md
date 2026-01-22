@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1470-shuffle-the-array) |
 | [1580-shuffle-the-array](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1580-shuffle-the-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amitrawat12/Leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
